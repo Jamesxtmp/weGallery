@@ -1,0 +1,29 @@
+{
+  "timeline": [
+    {
+      "date": "April 1, 2022",
+      "title": "E-Commerce UI code in Tailwind CSS",
+      "description": "Get started with dozens of web components and interactive elements built on top of Tailwind CSS.",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692576993/IMG-20230531-WA0002_ytosy6.jpg"
+      ]
+    },
+    {
+      "date": "April 2, 2022",
+      "title": "New Feature Launch: User Profiles",
+      "description": "Introducing user profiles to our platform, allowing you to showcase your interests and achievements.",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg"
+      ]
+    },
+    {
+      "date": "April 3, 2022",
+      "title": "Interactive Webinar: Modern Web Design Trends",
+      "description": "Join our webinar to learn about the latest trends in modern web design and how to implement them effectively.",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg"
+      ]
+    }
+  ]
+}
