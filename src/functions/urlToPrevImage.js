@@ -1,5 +1,5 @@
 export default function urlToPrevImage ( originalURL ) {
-  const transformationString = "c_thumb,g_faces,h_80";
+  const transformationString = "c_thumb,h_80";
   const parts = originalURL.split( "/" );
 
   // Insert the transformation string right before the version/public ID segment

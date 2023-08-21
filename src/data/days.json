@@ -1,29 +1,70 @@
 {
   "timeline": [
     {
-      "date": "April 1, 2022",
-      "title": "E-Commerce UI code in Tailwind CSS",
-      "description": "Get started with dozens of web components and interactive elements built on top of Tailwind CSS.",
+      "date": "Junio 3, 2023",
+      "title": "¿Quieres ser mi novia?",
+      "description": "Porque ya nos vieron caminar de la mano, nos besamos y más. Solo que no eras mi novia. Ahora lo eres y por fin puedo presumirlo.",
       "images": [
-        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg",
-        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692576993/IMG-20230531-WA0002_ytosy6.jpg"
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692588619/IMG-20230605-WA1777_tkq1bs.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692588620/IMG_20230603_161037732_tcttml.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692588619/IMG-20230604-WA0911_lhmgsf.jpg"
       ]
     },
     {
-      "date": "April 2, 2022",
-      "title": "New Feature Launch: User Profiles",
-      "description": "Introducing user profiles to our platform, allowing you to showcase your interests and achievements.",
+      "date": "Mayo 31, 2023",
+      "title": "Nuestro primer beso",
+      "description": "Tú en tu examen y yo al ajedrez, un buen dia sip, incluso resultó mejor de lo que esperaba. Pero lo más importante... me gustas y nuestro primer beso.",
       "images": [
-        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg"
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692587829/IMG-20230531-WA0003_ip15a3.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692587841/IMG-20230531-WA0006_zno0uw.jpg"
       ]
     },
     {
-      "date": "April 3, 2022",
-      "title": "Interactive Webinar: Modern Web Design Trends",
-      "description": "Join our webinar to learn about the latest trends in modern web design and how to implement them effectively.",
+      "date": "Mayo 27, 2023",
+      "title": "Mejores fotos si al menos te hubieras dejado",
+      "description": "Ni siquiera me acuerdo de ese dia.",
       "images": [
-        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692575493/IMG-20230820-WA0003_bavgpz.jpg"
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692587582/IMG_20230527_143843291_HDR_zop1ym.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692587574/IMG-20230527-WA0011_nuwph5.jpg"
       ]
+    },
+    {
+      "date": "Mayo 13, 2023",
+      "title": "¿Hay algien que te guste?",
+      "description": "Que pregunta con una intención tan obvia que no podrías responder, que ganas de ser Ji-Hoo (Tambien fuimos a comer pizza).",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692587136/IMG-20230514-WA0012_sfe1hr.jpg"
+      ]
+    },
+    {
+      "date": "April 22, 2023",
+      "title": "Salimos Juntos! Las lagunas",
+      "description": "Una salida improvisada, sí. Casi de un día para otro, decidimos ir a ver las lagunas. Aunque la idea original era ir a la de Achichica, terminamos visitando casi todas, ¡jaja! Levi llevó a su familia, un claro ejemplo de que las cosas no siempre salen según lo planeado. Pero eso no es algo malo. Fue un día que realmente disfruté y dudo mucho que lo borre de mi mente en mucho tiempo. Lo sé, en ese momento ya tenía la clara intención de llamar tu atención. Al despedirnos, te besé en la mejilla. 🥰",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586221/IMG_20230430_164937561_HDR_vvk9mj.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586198/IMG_20230430_175419771_b32egz.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586190/IMG-20230501-WA0077_kobflq.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586190/IMG_20230430_180258590_jvwvyf.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586189/IMG-20230501-WA0028_wjmbbv.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586186/IMG-20230501-WA0030_xaji8a.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586186/IMG-20230501-WA0040_uyj8jw.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586182/IMG-20230501-WA0058_gzai5s.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692586181/IMG-20230501-WA0018_ibddwm.jpg"
+      ]
+    },
+    {
+      "date": "April 22, 2023",
+      "title": "Tu comapañia me importa",
+      "description": "Ese día, salimos con nuestros compañeros a un bar cercano a la escuela. Ninguno de nosotros realmente quería ir, pero decidimos hacerlo de todos modos. De cualquier manera, valoro mucho tu amistad. Cada vez te vuelves más importante para mí.",
+      "images": [
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692585544/IMG_20230422_145512997_ut7h9e.jpg",
+        "https://res.cloudinary.com/diwy4i2dr/image/upload/v1692585923/IMG-20230422-WA0028_i4kzim.jpg"
+      ]
+    },
+    {
+      "date": "Agosto 20, 2022",
+      "title": "Primer Dia",
+      "description": "Cuando escuché tu voz por primera vez, supe que ibas a estar en mi mente durante mucho tiempo."
     }
   ]
 }
