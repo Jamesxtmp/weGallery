@@ -20,7 +20,7 @@ export default function TimeLine () {
               <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">{date}</time>
               <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{title}</h3>
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">{description}</p>
-              <div className="flex space-x-2 mt-2">
+              <div className="flex space-x-2 mt-2 sm:overflow-x-scroll sm:overflow-y-hidden ">
                 {images && images.map( ( link, j ) => {
                   return (
                     <img key={j} src={urlToPrevImage( link )} alt="Picsum" className="rounded-lg" />
